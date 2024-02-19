@@ -113,21 +113,21 @@
 
 <p align="center">
   <a href="https://github.com/calderon1199">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=calderon1199&theme=radical&border=7F3FBF&background=0D1117" alt="Daniel's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=calderon1199&theme=github-dark&border=007acc&background=0D1117" alt="Daniel's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/calderon1199">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calderon1199&theme=radical" alt="Daniel's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calderon1199&theme=react" alt="Daniel's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/calderon1199"><img alt="Daniel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=calderon1199&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/calderon1199"><img alt="Daniel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=calderon1199&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/calderon1199"><img alt="Daniel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=calderon1199&show_icons=true&count_private=true&theme=react" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/calderon1199"><img alt="Daniel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=calderon1199&langs_count=8&layout=compact&theme=react" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Daniel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=calderon1199&custom_title=Daniel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Daniel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=calderon1199&custom_title=Daniel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=007acc&line=F843C0&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
