@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://Calderon1199@github.io">Daniel Calderon</a></b>
+                <b><a target="_blank" href="https://calderon1199.github.io">Daniel Calderon</a></b>
         </samp>
 </h3>
 
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
- <a href="https://calderon1199@github.io" target="blank">
+ <a href="https://calderon1199.github.io" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Portfolio" />
  </a>
  <a href="https://linkedin.com/in/calderon0" target="_blank">
