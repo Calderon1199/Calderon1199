@@ -61,7 +61,7 @@
 <!-- About Section -->
  # About me
  
-<p>
+<!--<p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
@@ -69,7 +69,7 @@
  📧 &emsp; Reach me anytime: danielcalderon1199@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/calderon1199/calderon1199/issues)
 
-</p>
+</p>!-->
 
 <br/>
 <br/>
