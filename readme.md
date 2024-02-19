@@ -130,4 +130,4 @@
 </a>
 
 
-![Daniel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=calderon1199&custom_title=Daniel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=007acc&line=F843C0&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<!--![Daniel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=calderon1199&custom_title=Daniel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=007acc&line=F843C0&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)!-->
