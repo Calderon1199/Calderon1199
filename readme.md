@@ -61,15 +61,16 @@
 <!-- About Section -->
  # About me
  
-<!--<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+<p>
+ <!--<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />!-->
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: danielcalderon1199@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/calderon1199/calderon1199/issues)
+Hello, I'm Daniel Calderon, a versatile individual with a background in carpentry and a recent graduate in software engineering. With hands-on experience as a union carpenter, I've developed a meticulous eye for detail and a knack for problem-solving.
 
-</p>!-->
+Currently, I'm leveraging my technical skills as an assistant site coordinator for an afterschool program, where I foster a love for STEM education in elementary students.
+
+Outside of work, I'm an avid soccer player and coach, finding joy in teamwork and strategy on the field. Gaming is another passion of mine, providing both relaxation and inspiration. When I'm not coding or coaching, you can often find me playing my guitar and exploring new music and food.
+
+</p>
 
 <br/>
 <br/>
