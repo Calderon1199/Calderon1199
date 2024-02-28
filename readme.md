@@ -59,16 +59,17 @@
 <br />
 
 <!-- About Section -->
- # About me
+  <!--# About me
  
 <p>
- <!--<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />!-->
+<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
 👋 Hello, I'm Daniel Calderon!
 
 I'm an avid soccer player and coach, finding joy in teamwork and strategy on the field. Gaming is another passion of mine, providing both relaxation and inspiration. When I'm not coding or coaching, you can often find me playing my guitar and exploring new music and food.
 
 </p>
+!-->
 
 <br/>
 <br/>
