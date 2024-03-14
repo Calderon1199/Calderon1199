@@ -30,7 +30,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack web application developer from <b>Sacramento, CA</b> 」
+    「 I am a Full-Stack Software Engineer from <b>Sacramento, CA</b> 」
     <br>
     <br>
   </samp>
@@ -62,8 +62,6 @@
   <!--# About me
  
 <p>
-<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
 👋 Hello, I'm Daniel Calderon!
 
 I'm an avid soccer player and coach, finding joy in teamwork and strategy on the field. Gaming is another passion of mine, providing both relaxation and inspiration. When I'm not coding or coaching, you can often find me playing my guitar and exploring new music and food.
@@ -92,6 +90,8 @@ I'm an avid soccer player and coach, finding joy in teamwork and strategy on the
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Sqlite](https://img.shields.io/badge/sqlite-52B0E7?style=for-the-badge&logo=sqlite&logoColor=white)
+![Sqlalchemy](https://img.shields.io/badge/sqlalchemy-39D353?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 <br/>
 
