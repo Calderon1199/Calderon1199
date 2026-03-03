@@ -117,17 +117,17 @@ I'm an avid soccer player and coach, finding joy in teamwork and strategy on the
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/calderon1199">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calderon1199&theme=react" alt="Daniel's GitHub Contribution"/>
   </a>
-</p>
+</p> -->
 
-<a> 
+<!-- <a> 
     <a href="https://github.com/calderon1199"><img alt="Daniel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=calderon1199&show_icons=true&count_private=true&theme=react" height="192px" width="49.5%"/></a>
   <a href="https://github.com/calderon1199"><img alt="Daniel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=calderon1199&langs_count=8&layout=compact&theme=react" height="192px" width="49.5%"/></a>
   <br/>
-</a>
+</a> -->
 
 
 <!--![Daniel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=calderon1199&custom_title=Daniel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=007acc&line=F843C0&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)!-->
